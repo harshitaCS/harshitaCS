@@ -1,0 +1,3 @@
+include *
+include complaint_detector/*
+include complaint_detector/weights/*
